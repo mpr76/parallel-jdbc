@@ -1,0 +1,11 @@
+[
+  "com.scottlogic.sdc.stage.origin.paralleljdbc.Groups",
+  "com.scottlogic.sdc.stage.destination.sample.SampleDTarget",
+  "com.scottlogic.sdc.stage.executor.sample.Groups",
+  "com.scottlogic.sdc.stage.destination.sample.Groups",
+  "com.scottlogic.sdc.stage.executor.sample.SampleDExecutor",
+  "com.scottlogic.sdc.stage.processor.sample.SampleDProcessor",
+  "com.scottlogic.sdc.stage.processor.sample.Groups",
+  "com.scottlogic.sdc.stage.lib.sample.Errors",
+  "com.scottlogic.sdc.stage.origin.paralleljdbc.ParallelJdbcDSource"
+]

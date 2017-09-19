@@ -1,0 +1,13 @@
+C:\GitHub\StreamSets\custom-jdbc\parallel-jdbc\src\main\java\com\scottlogic\sdc\stage\destination\sample\SampleTarget.java
+C:\GitHub\StreamSets\custom-jdbc\parallel-jdbc\src\main\java\com\scottlogic\sdc\stage\origin\paralleljdbc\Groups.java
+C:\GitHub\StreamSets\custom-jdbc\parallel-jdbc\src\main\java\com\scottlogic\sdc\stage\processor\sample\SampleProcessor.java
+C:\GitHub\StreamSets\custom-jdbc\parallel-jdbc\src\main\java\com\scottlogic\sdc\stage\processor\sample\Groups.java
+C:\GitHub\StreamSets\custom-jdbc\parallel-jdbc\src\main\java\com\scottlogic\sdc\stage\origin\paralleljdbc\ParallelJdbcSource.java
+C:\GitHub\StreamSets\custom-jdbc\parallel-jdbc\src\main\java\com\scottlogic\sdc\stage\executor\sample\SampleDExecutor.java
+C:\GitHub\StreamSets\custom-jdbc\parallel-jdbc\src\main\java\com\scottlogic\sdc\stage\origin\paralleljdbc\ParallelJdbcDSource.java
+C:\GitHub\StreamSets\custom-jdbc\parallel-jdbc\src\main\java\com\scottlogic\sdc\stage\lib\sample\Errors.java
+C:\GitHub\StreamSets\custom-jdbc\parallel-jdbc\src\main\java\com\scottlogic\sdc\stage\destination\sample\SampleDTarget.java
+C:\GitHub\StreamSets\custom-jdbc\parallel-jdbc\src\main\java\com\scottlogic\sdc\stage\executor\sample\SampleExecutor.java
+C:\GitHub\StreamSets\custom-jdbc\parallel-jdbc\src\main\java\com\scottlogic\sdc\stage\executor\sample\Groups.java
+C:\GitHub\StreamSets\custom-jdbc\parallel-jdbc\src\main\java\com\scottlogic\sdc\stage\processor\sample\SampleDProcessor.java
+C:\GitHub\StreamSets\custom-jdbc\parallel-jdbc\src\main\java\com\scottlogic\sdc\stage\destination\sample\Groups.java

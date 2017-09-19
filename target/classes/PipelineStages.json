@@ -1,0 +1,6 @@
+[
+  "com.scottlogic.sdc.stage.destination.sample.SampleDTarget",
+  "com.scottlogic.sdc.stage.executor.sample.SampleDExecutor",
+  "com.scottlogic.sdc.stage.processor.sample.SampleDProcessor",
+  "com.scottlogic.sdc.stage.origin.paralleljdbc.ParallelJdbcDSource"
+]

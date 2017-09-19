@@ -1,0 +1,4 @@
+com\scottlogic\sdc\stage\origin\paralleljdbc\TestSampleSource.class
+com\scottlogic\sdc\stage\processor\sample\TestSampleProcessor.class
+com\scottlogic\sdc\stage\executor\sample\TestSampleExecutor.class
+com\scottlogic\sdc\stage\destination\sample\TestSampleTarget.class
